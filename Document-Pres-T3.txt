@@ -1,0 +1,80 @@
+﻿Trái Cây Bốn Mùa
+I.Giới Thiệu
+Website Trái Cây Bốn Mùa là một website chuyên cung cấp các loại trái cây trong nước, một số trái cây ngoại được người việt ưa thích và các loại trái cây được kết lại thàng giỏ.
+Thành viên nhóm
+1)	Chế Công Khánh 		3110410057
+2)	Nguyễn Đức Lộc		3110410080
+3)	Trần Văn Phú		3110410107
+
+II. Kiến trúc
+Prestashop.
+
+III. Thiết kế. 
+Dựa trên nền tảng của Prestashop.
+
+IV. Các chức năng của website.
+1.	Bank wire.(Thanh toán ngân hàng)
+Chấp nhận thanh toán cho các sản phẩm của bạn thông qua chuyển khoản ngân hàng.
+2.	Banner block. (Banner top)
+Hiển thị một biểu ngữ ở trên cùng của các cửa hàng.
+3.	Best - selling products.(Sản phẩm bán chạy)
+Hiện thị sản phẩm bán chạy nhất.
+4.	Best – suppliers. (Nhà cung cấp tốt nhất)
+Chọn nhà cung cấp cho website.
+5.	Cart – Block. (Giỏ Hàng)
+Hiện thi sản phẩm khách hàng cần mua.
+6.	Cash on delivery. (Thanh toán tiền mặt)
+Chấp nhận thanh toán bằng tiền mặt.
+7.	Contact block, contact information block và custom CMS information block.
+Cho phép bạn bổ sung thêm thông tin về dịch vụ khách hàng của cửa hàng của bạn.
+8.	Categories block (Phân loại).
+Cho phép phân loại sản phẩm theo ý của quản lý website.
+9.	Facebook like. 
+Thêm một Facebook nút "Like" để trang sản phẩm.
+10.	Facebook like box block.
+Hiện thị một khối thông tin đăng ký vào trang facebook của bạn.
+11.	Facebook share button.
+Cho phép khách hàng chia sẻ sản phẩm hoặc nội dung của website trên facebook.
+12.	 Featured products on the homepage.
+Hiện thị các sản phẩm đặc trưng trong cột trung tâm của trang chủ của bạn.
+13.	Google Analytics.
+Tích hợp Google Analytics vào trang web của bạn.
+14.	Image slider for your homepage.
+Thêm một thanh trượt hình ảnh trên trang chủ của bạn.
+15.	Language block.
+Thêm một khối cho phép khách hàng chọn ngôn ngữ cho nội dung các cửa hàng của bạn.
+16.	Magic Zoom.
+Cho phép phóng to ảnh khi bạn di chuột đến một hình ảnh của sản phẩm.
+17.	Mail alert.
+Gửi thông báo e-mail cho khách hàng và chủ của hàng.
+18.	My account block and My account block for you website’s footer.
+Hiện thị một khối với các liên kết với thông tin của khách hàng.
+19.	New products block.
+Hiện thị thông tin sản phẩm mới nhất của website.
+20.	OneAll social login.
+Cho phép người dùng của bạn để đăng ký và đăng nhập vào PrestaShop của bạn với tài khoản mạng xã hội hiện có của họ (Twitter, Facebook, LinkedIn, Google ...)
+21.	Product Comments.
+Cho phép khách khành gửi các ý kiến trong mỗi sản phẩm.
+22.	Product category.
+Cho phép hiện thị các sản phẩm liên quan trên trang sản phẩm.
+23.	Product tooltips.
+Hiển thị thông tin trên một trang sản phẩm: có bao nhiêu người đang xem nó, lần cuối cùng nó đã được bán và lần cuối cùng nó đã được thêm vào một giỏ.
+24.	Send to a Friend module.
+Cho phép khách hàng gửi một liên kết sản phẩm cho bạn bè.
+25.	Social networking block.
+Cho phép bạn thêm thông tin về các tài khoản mạng xã hội của thương hiệu của bạn.
+26.	Social sharing.
+Hiển thị nút chia sẻ xã hội (Twitter, Facebook, Google+ và Pinterest) trên mỗi trang sản phẩm.
+27.	Store locator block.
+Hiển thị một liên kết hình ảnh với tính năng định vị cửa hàng của bạn.
+28.	Suppilers block.
+Hiện thị các nhà cung cấp sản phẩm của bạn.
+29.	User info block.
+Hiện thị thông tin khách hàng.
+30.	View products block.
+Thêm hiện thị các sản phẩm được xem gần đây.
+31.	Zopim chat free.
+Là một công cụ chat miễn phí cho website. Để tương tác giữa khách hàng vào người quản trị.
+32.	SendinBlue.
+Khi có khách hàng đăng ký thành viên hoặc mua hàng thì website sẽ gửi mail cho khách hàng và bên trong phần icon customer và order sẽ hiện thi thông báo.
+
